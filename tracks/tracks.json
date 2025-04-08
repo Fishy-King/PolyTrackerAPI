@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Half-Pipe",
+      "track_link": ""
+    },
+    {
+      "id": 2,
+      "name": "Curve"
+    },
+    {
+        "id": 3,
+        "name": "Twist"
+    },
+    {
+        "id": 4,
+        "name": "Speedy Turns"
+    }
+  ]
